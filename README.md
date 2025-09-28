@@ -12,8 +12,7 @@ Saya juga terbiasa menghubungkan frontend dengan backend API agar aplikasi berja
 - **Frontend:** React, Vite, Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
-- **Mobile Dev:** Flutter (belajar)  
-- **Tools:** Git, GitHub, Vercel, Railway  
+- **Tools:** Git, GitHub, Vercel
 
 ---
 
